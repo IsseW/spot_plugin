@@ -1,0 +1,12 @@
+#![enable(unwrap_newtypes)]
+
+[
+    (
+        specifier: "world.structure.spots.torus",
+        center: (24, 24, 5),
+        custom_indices: {},
+    ),
+]
+
+
+

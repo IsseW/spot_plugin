@@ -1,0 +1,9 @@
+[
+    (
+        base_structures: "spots_general.test",
+        freq: 100.0,
+        condition: All([Typical, MaxGradient(0.2), Biome([Forest, Taiga, Snowland, Grassland])]),
+        spawn: true,
+    ),
+]
+
